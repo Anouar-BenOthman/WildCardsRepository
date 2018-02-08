@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/IProprieteService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/entity/Equipement.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/CategorieService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/entity/Propriete.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/IImgService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/db/DB.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/entity/ReseauSocial.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/entity/Horaire.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/EquipementService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/ITagService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/IHoraireService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/ProprieteService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/entity/Categorie.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/ICategoriService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/ReseauSocialService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/ImgService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/HoraireService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/TagService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/entity/Tag.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/IEquipementService.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/utils/DBConnection.java</file>
+            <file>file:/C:/Users/Nidhal/Documents/NetBeansProjects/DB/src/service/IReseauSocialService.java</file>
+        </group>
+    </open-files>
+</project-private>
