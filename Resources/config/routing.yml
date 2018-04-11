@@ -1,0 +1,21 @@
+home_home_homepage:
+    path:     /
+    defaults: { _controller: HomeHomeBundle:Default:index }
+participation:
+    path:     /{idU}/{idR}
+    defaults: { _controller: HomeHomeBundle:Participant:participer }
+signal:
+    path:     /signal/{idU}/{idR}
+    defaults: { _controller: HomeHomeBundle:Signalisation:signaler }
+home_home_homepage_Admmin:
+    path:     /ControleDesRencontres
+    defaults: { _controller: HomeHomeBundle:Rencontre:AffichageAdmin }
+desactivationRencontre_Admmin:
+    path:     /desactivation{id}
+    defaults: { _controller: HomeHomeBundle:Rencontre:desactiverRencontreAdmin }
+activationRencontre_Admmin:
+    path:     /activation{id}
+    defaults: { _controller: HomeHomeBundle:Rencontre:activerRencontreAdmin }
+Matching:
+    path:     /matching
+    defaults: { _controller: HomeHomeBundle:Rencontre:matching }
